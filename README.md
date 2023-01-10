@@ -1,1 +1,1 @@
-# Dartydogs.com
+# Dartydogs/clone project 
